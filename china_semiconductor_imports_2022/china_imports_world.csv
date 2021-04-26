@@ -1,0 +1,30 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,0,,,,70834008,,261161384489,,,6
+H5,2018,2018,2018,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,0,,,,72363423,,312735353341,,,6
+H5,2019,2019,2019,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,0,,,,70208958,,305897834388,,,6
+H5,2020,2020,2020,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,0,,,,,,350845066211,,,6
+H4,2012,2012,2012,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,,,74275485,,192967176584,,,4
+H4,2013,2013,2013,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,,,72638448,,232078243157,,,4
+H4,2014,2014,2014,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,,,,,218520292429,,,0
+H4,2015,2015,2015,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,,,,,230657123275,,,0
+H4,2016,2016,2016,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits,1,No Quantity,,,,,,,227616904239,,,0
+H3,2007,2007,2007,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,,,,,128663579222,,,0
+H3,2008,2008,2008,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,,,,,130582773788,,,0
+H3,2009,2009,2009,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,,,,,120751043445,,,0
+H3,2010,2010,2010,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,,,84409796,,158009698431,,,4
+H3,2011,2011,2011,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits.,1,No Quantity,,,,,81847065,,171142150713,,,4
+H2,2002,2002,2002,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies.,1,No Quantity,,,,,,,26374477232,,,0
+H2,2003,2003,2003,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies.,1,No Quantity,,,,,,,41833573279,,,0
+H2,2004,2004,2004,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies.,1,No Quantity,,,,,111298686,,61707150060,,,4
+H2,2005,2005,2005,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies.,1,No Quantity,,,,,142995466,,82202156004,,,4
+H2,2006,2006,2006,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies.,1,No Quantity,,,,,181867799,,107152498819,,,4
+H1,1996,1996,1996,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies,5,Number of items,7229086547,,,,0,,2724819069,,,0
+H1,1997,1997,1997,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies,5,Number of items,10039762698,,,,0,,3641694356,,,0
+H1,1998,1998,1998,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies,5,Number of items,7077544960,,,,0,,4879282176,,,0
+H1,1999,1999,1999,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies,5,Number of items,18170907815,,,,0,,7923755336,,,0
+H1,2000,2000,2000,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies,1,No Quantity,,,,,,,13799838535,,,0
+H1,2001,2001,2001,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies,1,No Quantity,,,,,,,16998265634,,,0
+H0,1992,1992,1992,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies,5,Number of items,3139371000,,,,0,,863027624,,,0
+H0,1993,1993,1993,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies,5,Number of items,4113398731,,,,0,,1165369392,,,0
+H0,1994,1994,1994,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies,5,Number of items,5540241490,,,,0,,1633993189,,,0
+H0,1995,1995,1995,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,8542,Electronic integrated circuits and microassemblies,5,Number of items,6622132205,,,,0,,2365599377,,,0
